@@ -1,0 +1,10 @@
+{
+    "name": "color generator",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "description": "A chrome extension help you to choose color while developing front-end of an application or website by telling them the code of color",
+    "action":{
+        "default_popup":"main.html"
+    },
+    "icons":{}
+}
