@@ -4,5 +4,4 @@ This is a chrome extension which can help you in selecting colours while creatin
 Using this chrome extension user can generate a random colour and can know the code of colour used somewhere else which he/she want to use in his software.
 # Technologies_used
 This chrome extension is developed by using HTML, CSS, Javascript and some JSON concepts.
-# Video_demonstration
-https://github.com/Misbah374/Colour_generator/issues/1#issue-2573109348
+
