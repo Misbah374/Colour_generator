@@ -5,3 +5,4 @@ Using this chrome extension user can generate a random colour and can know the c
 # Technologies_used
 This chrome extension is developed by using HTML, CSS, Javascript and some JSON concepts.
 # Video_demonstration
+https://github.com/Misbah374/Colour_generator/issues/1#issue-2573109348
