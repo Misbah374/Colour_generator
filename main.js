@@ -3,7 +3,7 @@ const start = () => {
     let x = Math.floor(Math.random()*1000);
     let y = Math.floor(Math.random()*1000);
     let z = Math.floor(Math.random()*1000);
-    if(x<=225&&y<=225&&z<=225){
+    if(x<=255&&y<=255&&z<=255){
         document.getElementById('box').style.backgroundColor = 'rgb('+x+','+y+','+z+')';
         document.getElementById('write').innerHTML = 'rgb('+x+','+y+','+z+')';
     }
